@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telcertificacao",
+  "private_key_id": "60c893a006512d1a9ab9ebe752a014bebbc3d2dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmX8NlpNPnG3aJ\n6uz5idVqPAioDuGXiv7aW6u7x2GOZddsPc4ahFqeUVmSq81oOjloEApqUGQBYALZ\nkTodA3K2qUbhdkJ7az/u9ZGinn9hJG0ivCnqHNmp55mv+CDkd9KgnwNQH2VdYJHC\nNfI9bU1V4lD1i9t89rqwx53hezgUAP0tfr79PsUa9sjsuvfCKf8KnuUMg7OOxEIf\nvmMd/Y0Pa9Jc6Bpd9HLDPyN2t9zo9SZULBGvB8H8HVAj4PWBmyGz5bMRU4tlDaBh\nuFtw6bYllPmvpaE5N0MYih3ioYqgIn5YZk64R7PAVxFitL3Ovx2d8D+Ms6l3PkaM\nI7uMYfU/AgMBAAECggEAJaoTTaz5bd3pQYLGIB3kixbJLOalio2kcWGEaM/T1Y1X\nrgD16knhS+sFuK8dIsXfnh/Xg8bsROVr774xZkUUEKcUzVDc7xzSDfJZBHQWSTMa\nY90uLfpXCmBMiipFpAM+Uy98bASXiYKlrM5SpzZZ5iIEivoc99bRX9jo9JVVFi3f\nqhscFDn1fVjBYOjxrkFqYnGpPmQqoAANr8ape5df33LbaWs8QXLGNJ9e2BjuHyfA\nDi1yE+X4odlchpDK/zcShlQkkCh3X+79wT0y08KzEQoQrXe1wpzpgbVsXxGTk4+V\nqQ0PRWumHOWf8i6yL4Pnc4gUDSk3Vcn9G69TV+5LkQKBgQDTrJ5vaT1Dfq2v5LHt\nxBDI1Ou7vF8jR012SdjJxkfMbWl40OrI+jan4NUyu6z7PTaXp8ld0yIWi1tBwcJB\nLw2YbJkd4m3TjFNuvZ5Ve9lkQGLPLqldL6SdRImRZcNBPZLB06ijUzipU2ln2awB\nhpyysMKFxKvtVkCvWRd5DVVxcQKBgQDJNrO0Qyzl8z7Gis/jx0u2xvvndZzw5yCz\nUcndvG2pq3pig7jSfIb9Icw9v2ukcOHL5zCQg+xJTqVAZbzpe/RV+1uuuUEFZCF1\n1h+7wzkUHoOR9nUoPjkEFIBnsTG4Lxiu+KDq5H665/5kt9OX2EDNyeRkQQzk5KL0\nBuTmtIt5rwKBgQCgzeMyqhVTgBn8pNUS1r8VgsNuxITV7SYItcMOTiZfQ8M7eCLU\n+ViqImB0gSTBXFhrz5hnQa0EyWtTQhoLoO5IHEAZ9tkOO+1qFH0DXenhghROZpld\nZIM+wkFsBo3VsywZOW1EXkWORQKvVSqZoiTKjwPH0Yf27m6HhzwQxzNg0QKBgFdU\nYpJuRWJYPHq3bJsTuIzPuC0xIrh71/l8Gf0e9wmY3zk6qlDQs1XSAW8bUYDBbX6u\nDKnsV/VJKPfWMDO2FMnsmlIvHUVVvCAEmylHBdLxm3ESYq7gsqZOr5xRj5688h2e\n01ifa1F7tzHHhxJ0TUwDwBizEwGVKhR3mYl3+sEJAoGAV1+gpl+MWYEfDrX8CHjg\nla9F5W6PczqzNyXKKavIt+0VjqUxoTU6Ypde0L09PwNE2ede2AUNxZtk4eqvcukg\nQh8bL5asveznhEAvQ1RRG2gm3B5zxtKaGhZjWv3//a9s+TFcNo7gMH0bBcUcFhBP\n0UxrSS2z0oNPC6LDpxgOUeo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lotofacil@telcertificacao.iam.gserviceaccount.com",
+  "client_id": "101497546230277936978",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lotofacil%40telcertificacao.iam.gserviceaccount.com"
+}
